@@ -1,0 +1,11 @@
+item,value,as_of,source
+close_usd,81.76,2026-11-04,https://seekingalpha.com/symbol/TLT/historical-price-quotes
+close_usd_second_source,81.76,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+nav_usd,81.738877,2026-11-04,https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf (fund history file; equals net assets / shares outstanding; matches iShares' 0.03% premium)
+effective_duration_years,14.90,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+weighted_avg_maturity_years,26.04,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+avg_yield_to_maturity_pct,5.33,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+sec_yield_30d_pct,5.28,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+trailing_12m_yield_pct,4.78,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+expense_ratio_pct,0.15,prospectus,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf
+net_assets_usd,48806283743,2026-11-04,https://www.blackrock.com/us/individual/products/239454/ishares-20-year-treasury-bond-etf

@@ -1,0 +1,6 @@
+country,tic_row,reserves_stock,reserves_split,reserve_transactions,custody_problem,status_5_nov_2026
+Japan,Japan,MOF International Reserves (monthly),securities / deposits / gold / SDR / IMF,MOF preliminary BoP (monthly),low,built (this repo)
+"Korea, South","Korea, South",Bank of Korea reserves release (monthly),securities / deposits / SDR / IMF / gold (per BOK release as reported),BOK BoP (monthly: to confirm),low,next to build; monthly data likely enough for the same check
+Taiwan,Taiwan,Central Bank of the ROC reserves release (monthly: to confirm),total only (to confirm),BoP (quarterly: to confirm),medium,quarterly check at best
+Switzerland,Switzerland,SNB data portal (foreign currency investments),currency split published (quarterly: to confirm),SNB BoP (quarterly: to confirm),high (Switzerland is a custody centre; the Fed's 2025 note names it),hardest; TIC row mixes custody
+India,India,RBI Weekly Statistical Supplement (weekly reserves),foreign currency assets / gold / SDR / IMF,RBI BoP (quarterly: to confirm),low,weekly stock with quarterly transactions

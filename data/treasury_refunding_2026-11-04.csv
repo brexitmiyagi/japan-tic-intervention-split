@@ -1,0 +1,11 @@
+item,value,source
+bond_30y_nov_2026_bn,25,https://home.treasury.gov/news/press-releases/sb0678/
+bond_30y_dec_2026_bn,22,https://home.treasury.gov/news/press-releases/sb0678/
+bond_30y_jan_2027_bn,22,https://home.treasury.gov/news/press-releases/sb0678/
+bond_20y_nov_2026_bn,16,https://home.treasury.gov/news/press-releases/sb0678/
+bond_20y_dec_2026_bn,13,https://home.treasury.gov/news/press-releases/sb0678/
+bond_20y_jan_2027_bn,13,https://home.treasury.gov/news/press-releases/sb0678/
+liquidity_buybacks_q_bn_nov,70,https://home.treasury.gov/news/press-releases/sb0678/
+liquidity_buybacks_q_bn_aug,38,https://home.treasury.gov/news/press-releases/sb0590
+guidance_nov,"Based on current projected borrowing needs, Treasury anticipates maintaining nominal coupon and FRN auction sizes for the next several quarters.",https://home.treasury.gov/news/press-releases/sb0678/
+guidance_aug,"Based on current projected borrowing needs, Treasury anticipates maintaining nominal coupon and FRN auction sizes for at least the next several quarters.",https://home.treasury.gov/news/press-releases/sb0590
