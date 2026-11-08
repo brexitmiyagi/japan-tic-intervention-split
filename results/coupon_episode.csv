@@ -1,0 +1,22 @@
+episode,funded_by,check,value,percentile,second_percentile
+Apr-May 2024,bills,auction,2024-05-09 30y,30,78
+Apr-May 2024,bills,auction,2024-05-22 20y,80,39
+Jul 2024,coupons,auction,2024-07-11 30y,12,82
+Jul 2024,coupons,auction,2024-07-17 20y,98,12
+Jul 2024,coupons,auction,2024-08-08 30y,42,98
+Apr-May 2026,bills,auction,2026-05-13 30y,48,38
+Apr-May 2026,bills,auction,2026-05-20 20y,54,27
+Jul 2026,bills,auction,2026-08-13 30y,52,35
+Jul 2026,bills,auction,2026-08-19 20y,17,61
+Apr-May 2024,bills,30y days,-4.0,30,
+Apr-May 2024,bills,30y settlement,-14.0,15,
+Jul 2024,coupons,30y days,-8.0,13,
+Jul 2024,coupons,30y settlement,-2.0,39,
+Apr-May 2026,bills,30y days,-4.0,32,
+Apr-May 2026,bills,30y settlement,5.0,55,
+Jul 2026,bills,30y days,7.0,82,
+Jul 2026,bills,30y settlement,-1.0,42,
+Apr-May 2024,bills,plumbing,-3.4,2,95
+Jul 2024,coupons,plumbing,-1.9,4,21
+Apr-May 2026,bills,plumbing,2.7,23,26
+Jul 2026,bills,plumbing,1.2,12,31

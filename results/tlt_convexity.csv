@@ -1,0 +1,11 @@
+shift_bp,duration_only_pct,full_reprice_pct,convexity_adds_pts
+-150,22.64,26.73,4.08
+-100,15.1,16.84,1.74
+-50,7.55,7.97,0.42
+50,-7.55,-7.16,0.39
+100,-15.1,-13.61,1.48
+150,-22.64,-19.43,3.21
+duration_years,,15.1,
+convexity_years_sq,,320.6,
+ishares_effective_duration_weighted,,14.9,
+ishares_modified_duration_weighted,,15.1,

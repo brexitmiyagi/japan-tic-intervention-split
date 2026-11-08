@@ -1,0 +1,4 @@
+test,n,beta,predicted_30y_bp,actual_30y_bp,residual_bp,percentile
+all four-month windows since 1977,593,0.54,-67,-51,16,68
+windows where the 2-year fell 75bp or more,87,0.41,-70,-51,19,60
+ACM term premium change,319,,,-12,,41

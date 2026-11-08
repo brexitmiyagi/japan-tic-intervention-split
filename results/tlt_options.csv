@@ -1,0 +1,13 @@
+item,value
+put_call_open_interest,0.51
+put_call_volume,0.66
+30d_expiry,2026-12-04
+30d_25d_put_iv_pct,12.5
+30d_25d_call_iv_pct,13.4
+30d_skew_vol_pts,-0.9
+30d_atm_iv_pct,12.3
+90d_expiry,2027-02-19
+90d_25d_put_iv_pct,13.3
+90d_25d_call_iv_pct,13.7
+90d_skew_vol_pts,-0.4
+90d_atm_iv_pct,12.9

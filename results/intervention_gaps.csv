@@ -1,0 +1,7 @@
+month,mof_securities_stock_chg,mof_deposits_chg,mof_fx_chg,bop_reserve_tx_usd,implied_valuation,mof_securities_sold_tx,japan_treasuries_net,japan_agencies_corporates_net,private_foreign_debt_net,gap_mof_only,gap_pct_of_mof_sales,non_us_all_residents,real_money_gross_lt_acq_yen_tn,swap_needed_yen_tn,swap_pct_of_real_money_acq
+2022-09,-51.5,0.0,-51.5,-18.4,-33.1,-18.4,-48.3,-6.7,-18.4,36.6,,18.1,13.82,,
+2022-10,-43.9,0.9,-43.0,-41.4,-1.6,-42.3,-40.5,13.7,-17.6,-15.5,37,-33.1,12.78,2.29,18
+2024-05,-50.4,1.2,-49.2,-57.2,8.0,-58.4,-23.9,-2.6,13.4,-32.0,55,-18.5,16.95,4.98,29
+2024-07,-17.1,0.4,-16.7,-31.7,15.1,-32.1,-13.9,-1.0,-9.5,-17.2,53,-26.7,15.12,2.71,18
+2026-05,-75.6,0.0,-75.5,-72.3,-3.2,-72.3,-62.6,7.7,18.3,-17.4,24,0.9,14.72,2.75,19
+2026-08,-87.8,-6.9,-94.6,-95.0,0.4,-88.1,-37.0,-1.1,-7.3,-50.0,57,-57.4,10.78,7.95,74

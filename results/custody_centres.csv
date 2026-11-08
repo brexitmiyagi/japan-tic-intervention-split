@@ -1,0 +1,36 @@
+group,country,notes_bonds_net_bn,bills_net_bn,net_bn,falling_lines_bn
+custody centre,United Kingdom,7.37,-5.69,1.67,-5.69
+custody centre,Belgium,2.59,-2.63,-0.05,-2.63
+custody centre,Luxembourg,-2.26,3.35,1.09,-2.26
+custody centre,Switzerland,-0.98,2.26,1.28,-0.98
+custody centre,Ireland,1.79,-0.51,1.28,-0.51
+custody centre,Guernsey,-0.36,0.0,-0.36,-0.36
+custody centre,Jersey,0.19,0.0,0.19,0.0
+custody centre,Cayman Islands,6.63,-0.81,5.82,-0.81
+custody centre,Bermuda,0.96,2.42,3.38,0
+custody centre,Bahamas,0.28,2.13,2.41,0
+custody centre,British Virgin Islands,2.78,-2.05,0.73,-2.05
+custody centre,Barbados,0.14,-0.07,0.08,-0.07
+custody centre,Curacao,0.1,0.0,0.1,0.0
+custody centre,Hong Kong,7.07,-3.91,3.15,-3.91
+custody centre,Singapore,-3.51,4.13,0.62,-3.51
+other net seller,"China, Mainland",-4.83,-4.78,-9.61,
+other net seller,Taiwan,-3.71,-0.19,-3.89,
+other net seller,Spain,-3.45,0.04,-3.42,
+other net seller,Netherlands,-1.89,-0.31,-2.2,
+other net seller,New Zealand,-1.7,-0.01,-1.7,
+other net seller,Australia,-1.24,-0.2,-1.44,
+other net seller,Saudi Arabia,2.42,-3.77,-1.35,
+other net seller,Philippines,-1.58,0.28,-1.29,
+other net seller,Germany,-1.09,-0.08,-1.17,
+other net seller,Indonesia,-2.97,1.9,-1.07,
+other net seller,South Africa,0.03,-0.54,-0.51,
+other net seller,Guatemala,-0.18,-0.1,-0.28,
+other net seller,Cyprus,-0.22,0.03,-0.2,
+other net seller,Trinidad and Tobago,-0.09,-0.01,-0.1,
+other net seller,Denmark,0.23,-0.33,-0.1,
+other net seller,Liberia,0.0,-0.06,-0.06,
+other net seller,Costa Rica,-0.07,0.02,-0.05,
+other net seller,Portugal,-0.06,0.02,-0.05,
+other net seller,Peru,0.07,-0.11,-0.04,
+other net seller,Colombia,-0.2,0.19,-0.01,

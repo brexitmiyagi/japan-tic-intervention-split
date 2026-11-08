@@ -1,0 +1,6 @@
+duration_case,euro_share,treasury_price_change_pct,price_and_fx_bn
+low,0.0,-1.45,-12.2
+low,0.2,-1.45,-16.1
+high,0.0,-2.47,-20.7
+high,0.2,-2.47,-24.6
+actual,,,-17.9

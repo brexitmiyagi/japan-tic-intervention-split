@@ -1,0 +1,10 @@
+line,window,from,to,change_bn,p5_bn,median_bn,p95_bn
+foreign repo pool,May window,2026-04-29,2026-05-27,-17.8,-33.2,0.2,29.1
+foreign repo pool,Aug window,2026-07-29,2026-08-26,19.1,-33.2,0.2,29.1
+foreign repo pool,"after, no MOF",2026-08-26,2026-10-28,-31.7,-33.2,0.2,29.1
+agency and MBS custody,May window,2026-04-29,2026-05-27,-6.4,-8.1,-2.9,4.6
+agency and MBS custody,Aug window,2026-07-29,2026-08-26,-2.9,-8.1,-2.9,4.6
+agency and MBS custody,"after, no MOF",2026-08-26,2026-10-28,-4.6,-8.1,-2.9,4.6
+foreign official deposits at the Fed,May window,2026-04-29,2026-05-27,0.0,-0.4,0.0,0.5
+foreign official deposits at the Fed,Aug window,2026-07-29,2026-08-26,0.0,-0.4,0.0,0.5
+foreign official deposits at the Fed,"after, no MOF",2026-08-26,2026-10-28,0.0,-0.4,0.0,0.5

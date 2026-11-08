@@ -1,0 +1,49 @@
+episode,date,window,close_vs_nav_bp,percentile_since_2022
+Sep 2022,2022-09-22,intervention,12.2,90
+Sep 2022,2022-09-23,settlement week,10.2,83
+Sep 2022,2022-09-26,settlement week,7.6,68
+Sep 2022,2022-09-27,settlement week,11.9,89
+Sep 2022,2022-09-28,settlement week,6.8,62
+Sep 2022,2022-09-29,settlement week,11.2,87
+Oct 2022,2022-10-21,intervention,12.5,91
+Oct 2022,2022-10-24,intervention,6.9,63
+Oct 2022,2022-10-25,settlement week,11.7,89
+Oct 2022,2022-10-26,settlement week,11.9,89
+Oct 2022,2022-10-27,settlement week,11.0,86
+Oct 2022,2022-10-28,settlement week,9.4,80
+Oct 2022,2022-10-31,settlement week,28.7,100
+Apr-May 2024,2024-04-29,intervention,6.9,63
+Apr-May 2024,2024-04-30,settlement week,-3.4,2
+Apr-May 2024,2024-05-01,intervention,6.5,60
+Apr-May 2024,2024-05-02,settlement week,11.2,87
+Apr-May 2024,2024-05-03,settlement week,14.3,95
+Apr-May 2024,2024-05-06,settlement week,8.9,78
+Apr-May 2024,2024-05-07,settlement week,6.1,55
+Apr-May 2024,2024-05-08,settlement week,6.5,59
+Jul 2024,2024-07-11,intervention,3.1,27
+Jul 2024,2024-07-12,intervention,11.1,87
+Jul 2024,2024-07-15,settlement week,2.3,20
+Jul 2024,2024-07-16,settlement week,7.0,64
+Jul 2024,2024-07-17,settlement week,0.2,9
+Jul 2024,2024-07-18,settlement week,-1.9,4
+Jul 2024,2024-07-19,settlement week,1.4,14
+Apr-May 2026,2026-04-30,intervention,3.8,34
+Apr-May 2026,2026-05-01,settlement week,5.4,50
+Apr-May 2026,2026-05-04,intervention,3.5,31
+Apr-May 2026,2026-05-05,settlement week,3.7,33
+Apr-May 2026,2026-05-06,intervention,3.4,30
+Apr-May 2026,2026-05-07,settlement week,2.7,23
+Apr-May 2026,2026-05-08,settlement week,9.6,81
+Apr-May 2026,2026-05-11,settlement week,3.6,32
+Apr-May 2026,2026-05-12,settlement week,4.7,43
+Apr-May 2026,2026-05-13,settlement week,3.1,28
+Jul 2026,2026-07-30,intervention,5.0,45
+Jul 2026,2026-07-31,intervention,8.1,72
+Jul 2026,2026-08-03,settlement week,2.6,22
+Jul 2026,2026-08-04,settlement week,1.2,12
+Jul 2026,2026-08-05,settlement week,3.3,29
+Jul 2026,2026-08-06,settlement week,4.7,43
+Jul 2026,2026-08-07,settlement week,8.8,77
+all days,,median,5.4,50
+all days,,p5,-1.0,5
+all days,,p95,14.3,95

@@ -1,0 +1,4 @@
+window,start,start_yield,end,end_yield,change_bp
+"intervention, Apr-May",2026-04-29,4.98,2026-05-29,4.99,1
+"intervention, Jul-Aug",2026-07-29,5.2,2026-08-26,5.18,-2
+"no intervention, 27 Aug to 7 Oct",2026-08-26,5.18,2026-10-07,5.67,49

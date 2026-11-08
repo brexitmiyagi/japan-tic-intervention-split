@@ -1,0 +1,6 @@
+case,total_return_pct,income_pct,price_return_pct,price_in_12m_usd
+forward curve,4.24,5.28,-1.04,80.91
+unchanged curve,5.18,5.28,-0.1,81.68
+target,,,-0.93,81
+buy_below,,,,70.43
+sell_above,,,,95.29

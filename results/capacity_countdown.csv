@@ -1,0 +1,5 @@
+liquid_pool,pool_bn,defenses_if_outside_us_0pct,defenses_if_outside_us_24pct,defenses_if_outside_us_56pct
+bills only,31.3,0.3,0.4,0.7
+bills + FIMA,91.3,0.9,1.2,2.1
+bills + FIMA + half of deposits,168.9,1.7,2.3,3.9
+bills + FIMA + all deposits,246.5,2.5,3.3,5.8
